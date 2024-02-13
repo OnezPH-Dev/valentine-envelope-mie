@@ -26,7 +26,7 @@ function displayLetter() {
 }
 function yesMie(){
     let letterCon = document.getElementById('letterId');
-    letterCon.innerHTML = '<div class="imgConGift"><img id="gifImg" src="bear-kiss-bear-kisses.gif" alt=""></div><div class="ilyText"><span>Yayyy!! I Love You💗</span></div>';
+    letterCon.innerHTML = '<div class="imgConGift"><img id="gifImg" src="milk-and-mocha-hug.gif" alt=""></div><div class="ilyText"><span>I Love You Always Mie💗</span></div>';
 }
 let yesBtn = document.getElementById('yesButton');
 function noMie(){
